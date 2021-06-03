@@ -1,0 +1,10 @@
+.register-heading{
+    text-align: center;
+  
+    color: #495057;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
